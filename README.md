@@ -7,7 +7,7 @@ It is a supervised machine learning project built to predict the medical cost of
 Columns </br>
 age: age of primary beneficiary </br>
 sex: insurance contractor gender, female, male </br>
-bmi: Body mass index </br>
+bmi: Body mass index (ideal 18.5 to 24.9)</br>
 children: Number of children covered by health insurance / Number of dependents </br>
 smoker: Smoking </br>
 region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest. </br>
