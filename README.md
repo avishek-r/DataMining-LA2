@@ -2,7 +2,7 @@
 # Medical Cost Prediction
 A medical cost predictior built using python. 
 # About the project
-It is a supervised machine learning project built to predict the medical cost of a patient based on various factors.
+It is a supervised machine learning project built to predict the medical cost of a patient based on various factors.We are using vairous data mining tasks to build a model that predicts the insurance amount based on the factors line age,gender,region etc.
 # Dataset Contents
 Columns </br>
 age: age of primary beneficiary </br>
