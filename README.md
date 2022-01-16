@@ -7,7 +7,7 @@ It is a supervised machine learning project built to predict the medical cost of
 Anurag Nepal 1NT19CS036 </br>
 Avishek Rijal 1NT19CS045 </br>
 Baibhav Dhakal 1NT19CS048 </br>
-Nabin Kumar KC 1NT19CS116</br>
+Nabin Kumar KC 1NT19CS116 </br>
 # Dataset Contents
 Columns </br>
 age: age of primary beneficiary </br>
