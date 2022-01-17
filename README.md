@@ -19,4 +19,9 @@ region: the beneficiary's residential area in the US, northeast, southeast, sout
 charges: Individual medical costs billed by health insurance </br>
 dataset reference : https://www.kaggle.com/mirichoi0218/insurance </br>
 # Requirements
-Python 3.7. 1 and above </br>
+•	Python 3.7.1 and up </br>
+•	Pandas</br>
+•	Scikit learn</br>
+•	Matplotlib</br>
+•	Seaborn</br>
+•	Graphviz</br>
