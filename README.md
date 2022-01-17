@@ -11,7 +11,7 @@ Nabin Kumar KC 1NT19CS116 </br>
 # Dataset Contents
 Columns </br>
 age: age of primary beneficiary </br>
-sex: insurance contractor gender, female, male  </br>
+sex:  gender (female/male)  </br>
 bmi: Body mass index (ideal 18.5 to 24.9)</br>
 children: Number of children covered by health insurance / Number of dependents </br>
 smoker: Smoking </br>
