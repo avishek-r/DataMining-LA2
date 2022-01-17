@@ -18,3 +18,5 @@ smoker: Smoking </br>
 region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest. </br>
 charges: Individual medical costs billed by health insurance </br>
 dataset reference : https://www.kaggle.com/mirichoi0218/insurance </br>
+#Requirements
+Python 3.7. 1 and above </br>
